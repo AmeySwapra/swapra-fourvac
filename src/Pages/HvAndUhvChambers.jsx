@@ -11,18 +11,18 @@ import {
   Text,
   useBreakpointValue,
 } from "@chakra-ui/react";
-import product1 from '../assets/products/hvuhv/BENDING-MAGNET-CHAMBER.JPG';
-import product2 from '../assets/products/hvuhv/D-Shaped-Chamber.JPG';
-import product3 from '../assets/products/hvuhv/Dome_Shaped_HV_Chamber.JPG';
-import product4 from '../assets/products/hvuhv/HV_Chamber_with_Entry_Door.JPG';
-import product5 from '../assets/products/hvuhv/HV_Chamber.JPG';
-import product6 from '../assets/products/hvuhv/Rectangular_HV_Chamver.JPG';
-import product7 from '../assets/products/hvuhv/Rectangular_Water_Cooled_HV_Chamver.JPG';
-import product8 from '../assets/products/hvuhv/Sputtering_System.JPG';
-import product9 from '../assets/products/hvuhv/Transfer_Chamber.JPG';
-import product10 from '../assets/products/hvuhv/UHV_Chamber.JPG';
-import product11 from '../assets/products/hvuhv/UHV_Double_Walled_Water_Cooled_Chamber.JPG';
-import product12 from '../assets/products/hvuhv/UHV_Process_Chamber.JPG';
+import product1 from '../assets/products/hvuhv/BENDING-MAGNET-CHAMBER.jpg';
+import product2 from '../assets/products/hvuhv/D-Shaped-Chamber.jpg';
+import product3 from '../assets/products/hvuhv/Dome_Shaped_HV_Chamber.jpg';
+import product4 from '../assets/products/hvuhv/HV_Chamber_with_Entry_Door.jpg';
+import product5 from '../assets/products/hvuhv/HV_Chamber.jpg';
+import product6 from '../assets/products/hvuhv/Rectangular_HV_Chamver.jpg';
+import product7 from '../assets/products/hvuhv/Rectangular_Water_Cooled_HV_Chamver.jpg';
+import product8 from '../assets/products/hvuhv/Sputtering_System.jpg';
+import product9 from '../assets/products/hvuhv/Transfer_Chamber.jpg';
+import product10 from '../assets/products/hvuhv/UHV_Chamber.jpg';
+import product11 from '../assets/products/hvuhv/UHV_Double_Walled_Water_Cooled_Chamber.jpg';
+import product12 from '../assets/products/hvuhv/UHV_Process_Chamber.jpg';
 import OurProducts from "../components/common/OurProducts";
 function HvandUhvChambers() {
     const products = [
