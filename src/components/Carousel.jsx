@@ -104,6 +104,7 @@ const Carousel = () => {
           bg="rgba(0, 0, 0, 0.5)"
           borderRadius="md"
           width={{ base: '100%', md: '100%' }}
+          height={{ base: '100%', md: '100%' }}
         >
           <Text fontSize={{ base: '24px', md: '50px' }} fontWeight="bold" mb={5}>
             Welcome to <span style={{ color: 'white' }}>{slide.title}</span>
